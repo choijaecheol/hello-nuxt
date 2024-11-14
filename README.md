@@ -1,6 +1,8 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Example : [학습하기] (https://nuxt.com/docs/examples/hello-world) to learn more.
+
 
 ## Setup
 
